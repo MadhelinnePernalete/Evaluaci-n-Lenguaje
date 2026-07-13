@@ -3,7 +3,7 @@ Repositorio público para la evaluación de Lenguaje.
 
 ## 👥 Integrantes y Roles
 
-* **Madhelinne Pernalete** ([@pernaletemadhelinne-commits](https://github.com/pernaletemadhelinne-commits)) - **Líder del Proyecto & Administradora**
+* **Madhelinne Pernalete** ([@MadhelinnePernalete](https://github.com/MadhelinnePernalete)) - **Líder del Proyecto & Administradora**
   * *Responsabilidad:* Gestión y configuración del repositorio, control de las entregas.
 
 * **Johandri Jimenez** ([@Johanp22](https://github.com/Johanp22)) - **Desarrollador**
