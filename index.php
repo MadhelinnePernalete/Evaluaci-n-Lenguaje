@@ -20,7 +20,7 @@
             <div class="container">
                 <label for="email">Correo electronico</label>
                 <input id="email" name="email" type="email" placeholder="ejemplo@dominio.com" required>
-                <p class="hint">Formato valido: usuario@dominio.ext</p>
+                <p class="hint">Formato valido: usuario@dominio.com</p>
             </div>
 
             <div class="container">
